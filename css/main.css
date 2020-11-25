@@ -64,8 +64,8 @@ html {
 @media (prefers-color-scheme: dark) {
 
   .banner {
-    background-color: #000;
-    color: #000;
+    background-color: #111;
+    color: #fff;
   }
 
 }
